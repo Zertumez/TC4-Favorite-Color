@@ -1,0 +1,21 @@
+.texto-central {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200px;
+    text-align: center;
+    color: #d8dff3;
+    background-color: #5D87FB;
+}
+
+.texto-footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: left;
+    color: #d8dff3;
+    background-color: #5D87FB;
+}
+
+.fondo {
+    background-image: url(img/hex.png);
+    background-size: 100px;
+    background-repeat: repeat; 
+}
